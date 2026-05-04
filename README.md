@@ -29,7 +29,7 @@
 
 Вся работа находится в ноутбуке:
 
-text
+
 ml_1task.ipynb
 
 
@@ -39,14 +39,14 @@ ml_1task.ipynb
 
 Ожидаемые файлы в корне проекта:
 
-text
+
 train (1).csv
 test (1).csv
 
 
 На выходе формируется:
 
-text
+
 test.csv
 
 
